@@ -1,6 +1,6 @@
-# OmniAI - A React-based Chatbot using OpenAI's GPT-3
+# Zenyo - A React-based Yoga Studio website
 
-This is a sample Yoga Studio website showcasing various sections and functionalities. The website is built using React, TypeScript and Tailwind.
+This is a sample Zenyo (Yoga Studio) website showcasing various sections and functionalities. The website is built using React, TypeScript and Tailwind.
 
 
 ## Getting Started
@@ -41,13 +41,15 @@ This should start your application. Open your browser and navigate to http://loc
 
 The Yoga Studio website uses the following dependencies:
 
-React: JavaScript library for building user interfaces.
-React Router: Routing library for navigating between different sections.
-Framer Motion: Animation library for adding visual effects.
-Axios: Promise-based HTTP client for making API requests (yoga API: https://github.com/alexcumplido/yoga-api)
-react-hook-form: Form validation library for handling form submissions.
-TypeScript - Typed superset of JavaScript that compiles to plain JavaScript.
-Tailwind CSS - Utility-first CSS framework for rapidly building custom designs
+The Yoga Studio website uses the following dependencies:
+
+- React: JavaScript library for building user interfaces.
+- React Router: Routing library for navigating between different sections.
+- Framer Motion: Animation library for adding visual effects.
+- Axios: Promise-based HTTP client for making API requests (yoga API: yoga-api).
+- react-hook-form: Form validation library for handling form submissions.
+- TypeScript: Typed superset of JavaScript that compiles to plain JavaScript.
+- Tailwind CSS: Utility-first CSS framework for rapidly building custom designs.
 
 
 
